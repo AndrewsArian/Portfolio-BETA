@@ -1,0 +1,11 @@
+#disqus_thread .text-bold{
+    font-family: Poppins !important;
+    font-size: 15px !important;
+    color: #a9a9a9 !important;
+    letter-spacing: 0 !important;
+    font-weight: 400 !important;
+}
+
+.reaction-item__text{
+    color: red !important;
+}

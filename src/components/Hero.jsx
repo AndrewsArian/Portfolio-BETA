@@ -64,7 +64,7 @@ const Hero = ({ type = 'bgColor' }) => {
             <div className="vertical-center">
               {/* Started titles */}
               <div className="title">
-                <span>Patrick</span> Johansson
+                <span>Andrews</span> Arian
               </div>
               <div
                 className="subtitle"
@@ -79,10 +79,10 @@ const Hero = ({ type = 'bgColor' }) => {
                 <span style={{ color: "#fff" }}>
                   <Typewriter
                     words={[
+                      "IT Specialist",
                       "web developer.",
-                      "blogger.",
+                      "problem solver",
                       "freelancer.",
-                      "photographer.",
                     ]}
                     loop={5}
                     cursor

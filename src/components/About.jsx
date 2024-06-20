@@ -14,24 +14,24 @@ const About = () => {
       text: "Modern and mobile-ready website that will help of your marketing.",
     },
     {
-      icon_url: "la la-music",
-      title: "Music Writing",
-      text: "Music copying, transcription, arranging and composition Services.",
+      icon_url: "la la-area-chart",
+      title: "AndrewBoost Automation",
+      text: "I offer innovative technological solutions to automate and promote small businesses in your community.",
     },
     {
       icon_url: "la la-bullhorn",
       title: "Advetising",
-      text: "Advertising services include television, radio, print, mail and web.",
+      text: "Advertising services include Instagram, Whatsapp Business, mail and web.",
     },
     {
-      icon_url: "la la-gamepad",
-      title: "Game Development",
-      text: "Developing memorable and unique mobile android, ios games.",
+      icon_url: "la la-server",
+      title: "Network Management",
+      text: "Basic, advanced, custom implementations on LAN and WAN.",
     },
     {
       icon_url: "la la-area-chart",
-      title: "Analytics",
-      text: "Basic, advanced, custom implementations and online media analysis.",
+      title: "Network Management",
+      text: "Basic, advanced, custom implementations on LAN and WAN.",
     },
     {
       icon_url: "la la-camera-retro",
@@ -148,13 +148,12 @@ const About = () => {
                   <div className="title-bg">About Me</div>
                   <div className="text">
                     <p>
-                      <strong>Hello, I’m a Patrick</strong>, web-developer based
-                      on Paris. <br />I have rich experience in web site design
-                      & building <br />
-                      and customization. Also I am good at{" "}
+                      <strong>Hello, I’m a Andrews Arian</strong>, <br />Full stack developer with a solid background in electronics 
+                      and experience in cybersecurity, robotics, and artificial intelligence
+                      based in Buenos Aires. <br />Some of my skills are:{" "}
                       <strong>
-                        html, css, <br />
-                        wordpress, php, jquery, bootstrap.
+                      JavaScript, React, Node.js, C, and Python <br />
+                        MongoDB, Next.js, AWS, SQL, and Stripe.
                       </strong>
                     </p>
                   </div>
@@ -183,7 +182,7 @@ const About = () => {
                 <div className="col col-m-12 col-t-12 col-d-12 col-d-lg-12">
                   {/* <!-- title --> */}
                   <div className="title">
-                    <span>Our</span> Services
+                    <span>My</span> Services
                   </div>
                 </div>
               </div>
@@ -209,6 +208,8 @@ const About = () => {
                 })}
               </div>
             </div>
+
+
             {/* // Price Tables */}
             <div className="content pricing">
               <div className="row">

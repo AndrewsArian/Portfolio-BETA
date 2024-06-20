@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-undef */
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 
@@ -14,7 +15,7 @@ const Header = () => {
         {/* <!-- logo --> */}
         <div className="logo">
           <Link to={`/`}>
-            <span>P</span>
+            <span>AA</span>
           </Link>
         </div>
 

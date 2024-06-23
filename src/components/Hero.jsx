@@ -79,10 +79,10 @@ const Hero = ({ type = 'bgColor' }) => {
                 <span style={{ color: "#fff" }}>
                   <Typewriter
                     words={[
+                      "freelancer.",
                       "IT Specialist",
                       "web developer.",
                       "problem solver",
-                      "freelancer.",
                     ]}
                     loop={5}
                     cursor

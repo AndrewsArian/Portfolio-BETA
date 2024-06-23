@@ -100,38 +100,40 @@ const Resume = () => {
                   <div className="resume-items card-box">
                     {/* <!-- resume item --> */}
                     <div className="resume-item">
-                      <div className="name">Web Development</div>
+                      <div className="name">Help desk</div>
                       <div className="date">
-                        2013-Present <span>|</span> Facebook Inc.
+                        2018-2023 <span>|</span> Quality Software
                       </div>
                       <p>
-                        Collaborate with creative and development teams on the
-                        execution of ideas.
+                      Monitored technical aspects of  networking and VoIP, Call Center support, packet analysis, 
+                      automation with Python, system administration, and IT security.
                       </p>
                     </div>
 
                     {/* <!-- resume item --> */}
                     <div className="resume-item">
-                      <div className="name">Front-end Developer</div>
+                      <div className="name">Electronic Technician</div>
                       <div className="date">
-                        2011-2012 <span>|</span> Google Inc.
+                        2016-Present <span>|</span> Dantech Services.
                       </div>
                       <p>
-                        Monitored technical aspects of the front-end delivery
-                        for several projects.
+                      As an independent electronics specialist, I focus on repairing and maintaining a wide range of electronic devices,
+                      including smartphones, computers, consoles, and other gadgets.
                       </p>
                     </div>
 
                     {/* <!-- resume item --> */}
                     <div className="resume-item">
-                      <div className="name">Senior Developer</div>
+                      <div className="name">Field Translator</div>
                       <div className="date">
-                        2009-2010 <span>|</span> Abc Inc.
+                        2017-2018 <span>|</span> Windstream.
                       </div>
                       <p>
-                        Optimize website performance using latest technology.
+                      Assembly, installation and repair of solar and wind energy generators, technical translation and equipment coordination.
                       </p>
                     </div>
+
+                    
                   </div>
                 </div>
                 <div className="col col-m-12 col-t-6 col-d-6 col-d-lg-6">
@@ -144,25 +146,23 @@ const Resume = () => {
                   <div className="resume-items card-box">
                     {/* <!-- resume item --> */}
                     <div className="resume-item">
-                      <div className="name">Art University</div>
+                      <div className="name">Bachelor's Degree in Electronic Engineering</div>
                       <div className="date">
-                        2006-2008 <span>|</span> New York
+                        2018-2020 (Incomplete) <span>|</span> Haedo, Buenos Aires
                       </div>
                       <p>
-                        Bachelor's Degree in Computer Science ABC Technical
-                        Institute, Jefferson, Missouri
+                        UTN FRH
                       </p>
                     </div>
 
                     {/* <!-- resume item --> */}
                     <div className="resume-item">
-                      <div className="name">Programming Course</div>
+                      <div className="name"> Bachelor's Degree in Artificial Intelligence and Robotics</div>
                       <div className="date">
-                        2005-2006 <span>|</span> Paris
+                        2024 <span>|</span> Buenos Aires (Hibrid)
                       </div>
                       <p>
-                        Bachelor's Degree in Computer Science ABC Technical
-                        Institute, Jefferson, Missouri
+                      Universidad Siglo 21 
                       </p>
                     </div>
 

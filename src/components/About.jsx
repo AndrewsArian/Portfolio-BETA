@@ -28,16 +28,7 @@ const About = () => {
       title: "Network Management",
       text: "Basic, advanced, custom implementations on LAN and WAN.",
     },
-    {
-      icon_url: "la la-area-chart",
-      title: "Network Management",
-      text: "Basic, advanced, custom implementations on LAN and WAN.",
-    },
-    {
-      icon_url: "la la-camera-retro",
-      title: "Hosting",
-      text: "Full-day or half-day photo shoots with all necessary equipment.",
-    },
+    
   ];
 
   const FactsData = [
@@ -210,82 +201,7 @@ const About = () => {
             </div>
 
 
-            {/* // Price Tables */}
-            <div className="content pricing">
-              <div className="row">
-                <div className="col col-m-12 col-t-12 col-d-12 col-d-lg-12">
-                  {/* <!-- title --> */}
-                  <div className="title">
-                    <span>Pricing</span> Tables
-                  </div>
-                </div>
-              </div>
-
-              {/* <!-- pricing items --> */}
-              <div className="row pricing-items">
-                {/* <!-- pricing item --> */}
-                <div className="col col-m-12 col-t-6 col-d-6 col-d-lg-6">
-                  <div className="pricing-item card-box">
-                    <div className="icon">
-                      <i className="la la-tachometer"></i>
-                    </div>
-                    <div className="name">Basic</div>
-                    <div className="amount">
-                      <span className="dollar">$</span>
-                      <span className="number">22</span>
-                      <span className="period">hour</span>
-                    </div>
-                    <div className="feature-list">
-                      <ul>
-                        <li>Web Development</li>
-                        <li>Advetising</li>
-                        <li>Game Development</li>
-                        <li className="disable">Music Writing</li>
-                        <li className="disable">
-                          Photography <strong>new</strong>
-                        </li>
-                      </ul>
-                    </div>
-                    <div className="lnks">
-                      <a href="#buy" className="lnk">
-                        Buy <span>Basic</span>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-
-                {/* <!-- pricing item --> */}
-                <div className="col col-m-12 col-t-6 col-d-6 col-d-lg-6">
-                  <div className="pricing-item card-box">
-                    <div className="icon">
-                      <i className="la la-rocket"></i>
-                    </div>
-                    <div className="name">Pro</div>
-                    <div className="amount">
-                      <span className="dollar">$</span>
-                      <span className="number">48</span>
-                      <span className="period">hour</span>
-                    </div>
-                    <div className="feature-list">
-                      <ul>
-                        <li>Web Development</li>
-                        <li>Advetising</li>
-                        <li>Game Development</li>
-                        <li>Music Writing</li>
-                        <li>
-                          Photography <strong>new</strong>
-                        </li>
-                      </ul>
-                    </div>
-                    <div className="lnks">
-                      <a href="#buy" className="lnk">
-                        Buy <span>Pro</span>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
+            
             {/* // <!--	Fun Fact --> */}
             <div className="content fuct">
               <div className="row">

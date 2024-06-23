@@ -8,14 +8,13 @@ const Header = () => {
 
   return (
     <>
-      {/* <!--
-			Header
-		--> */}
+      {/* <!--Header--> */}
       <header className={`${toggleSidebar ? "header opened" : "header"}`}>
+
         {/* <!-- logo --> */}
         <div className="logo">
           <Link to={`/`}>
-            <span>AA</span>
+            <span>A</span>
           </Link>
         </div>
 
@@ -33,7 +32,7 @@ const Header = () => {
             <Tab as="li">
               <a href="#about">
                 <span className="icon la la-user"></span>
-                <span className="link">about</span>
+                <span className="link">seeditaesto?</span>
               </a>
             </Tab>
             <Tab as="li">
@@ -45,11 +44,7 @@ const Header = () => {
             <Tab as="li"><a href="#work"><span className="icon la la-eye">
             </span><span className="link">portfolio</span></a>
             </Tab>
-            <Tab as="li">
-              <a href="#blog">
-                <span className="icon la la-newspaper-o"></span>
-                <span className="link">blog</span></a>
-            </Tab>
+          
             <Tab as="li">
               <a href="#contact">
                 <span className="icon la la-envelope"></span>
@@ -60,18 +55,18 @@ const Header = () => {
           </ul>
         </div>
 
-        {/* <!-- Started socials --> */}
+        {/* <!-- Started socials --> }
         <div className="social">
-          <a target="_blank" href="https://dribbble.com/">
+          <a target="_blank" rel="noopener noreferrer" href="https://dribbble.com/">
             <span className="icon la la-dribbble"></span>
           </a>
-          <a target="_blank" href="https://facebook.com/">
+          <a target="_blank" rel="noopener noreferrer" href="https://facebook.com/">
             <span className="icon la la-facebook"></span>
           </a>
-          <a target="_blank" href="https://github.com/">
+          <a target="_blank" rel="noopener noreferrer" href="https://github.com/">
             <span className="icon la la-github"></span>
           </a>
-          <a target="_blank" href="https://stackoverflow.com/">
+          <a target="_blank" rel="noopener noreferrer" href="https://stackoverflow.com/">
             <span className="icon la la-stack-overflow"></span>
           </a>
         </div>

@@ -1,8 +1,8 @@
 const socials = [
     {
-        url: "https://dribbble.com/",
-        icon: 'icon la la-dribbble',
-        name: 'dribbble'
+        url: "https://instagram.com/andrewsarian/",
+        icon: 'icon la la-instagram',
+        name: 'Instagram'
     },
     {
         url: "https://facebook.com/",
@@ -14,10 +14,6 @@ const socials = [
         icon: 'icon la la-github',
         name: 'github'
     },
-    {
-        url: "https://stackoverflow.com/",
-        icon: 'icon la la-stack-overflow',
-        name: 'stackoverflow'
-    },
+    
 ];
 export default socials;

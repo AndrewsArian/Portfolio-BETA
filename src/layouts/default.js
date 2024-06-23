@@ -66,7 +66,7 @@ function DefaultLayout(props) {
                     {/* <!-- logo --> */}
                     <div className="logo">
                         <Link to={`/`}>
-                            <span>P</span>
+                            <span>A</span>
                         </Link>
                     </div>
 

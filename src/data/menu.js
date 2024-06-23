@@ -20,11 +20,6 @@ const menu = [
         title: 'portfolio'
     },
     {
-        to: "#blog",
-        icon: 'icon la la-newspaper-o',
-        title: 'blog'
-    },
-    {
         to: "#contact",
         icon: 'icon la la-envelope',
         title: 'contact'

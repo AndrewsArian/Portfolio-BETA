@@ -12,21 +12,17 @@ const Contact = () => {
     {
       icon: "la la-map-marker",
       name: "address",
-      text: "France, Paris.",
+      text: "Buenos Aires, Argentina",
     },
     {
       icon: "la la-at",
       name: "email",
-      text: "adlard@example.com",
+      text: "ariandanielgoicochea@gmail.com",
     },
-    {
-      icon: "la la-phone",
-      name: "phone",
-      text: "+123 654 78900",
-    },
+    
     {
       icon: "la la-check-square",
-      name: "freelence",
+      name: "Open to Work",
       text: "available",
     },
   ];

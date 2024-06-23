@@ -4,7 +4,6 @@ import ThemePanel from "../components/ThemePanel";
 import Hero from "../components/Hero";
 import About from "../components/About";
 import Resume from "../components/Resume";
-import Blog from "../components/Blog";
 import Contact from "../components/Contact";
 import Work from "../components/Work";
 import DefaultLayout from "../layouts/default";
@@ -28,9 +27,7 @@ const HomePage = () => {
         <TabPanel>
           <Work />
         </TabPanel>
-        <TabPanel>
-          <Blog />
-        </TabPanel>
+        
         <TabPanel>
           <Contact />
         </TabPanel>

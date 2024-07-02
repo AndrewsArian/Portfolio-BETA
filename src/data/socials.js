@@ -10,7 +10,7 @@ const socials = [
         name: 'facebook'
     },
     {
-        url: "https://github.com/",
+        url: "https://github.com/AndrewsArian",
         icon: 'icon la la-github',
         name: 'github'
     },

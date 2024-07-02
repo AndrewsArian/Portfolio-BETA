@@ -1,10 +1,7 @@
 import React, { useEffect } from "react";
 import styled from "styled-components";
 import { Typewriter } from "react-simple-typewriter";
-import particleOption from "../data/particle-config.json";
-import Particles from "react-tsparticles";
 import Bg from "../images/bg.jpg";
-import video_1 from "../video/intro_1.mp4";
 import { useLoading } from "../hooks/app";
 
 const Hero = ({ type = 'bgColor' }) => {
@@ -21,22 +18,14 @@ const Hero = ({ type = 'bgColor' }) => {
   return (
     <>
       <HomeStyled>
-        {type === 'bgParticles' && (
-          <Particles id="tsparticles" options={particleOption} />
-        )}
+        
         {/* Card - Started */}
         <div
           className="card-inner card-started active"
           id="home-card"
           style={{ height: "100vh" }}
         >
-          {type === 'bgParticles' && (
-            <div
-              className="slide"
-              style={{ backgroundImage: `url(${Bg})` }}
-            ></div>
-          )}
-
+          
           {type === 'bgImage' && (
             <div
               className="slide"
@@ -44,17 +33,6 @@ const Hero = ({ type = 'bgColor' }) => {
             ></div>
           )}
 
-          {type === 'bgvideo' && (
-            <>
-              <div id="video-bg" className="slide" >
-                <div className="video_container">
-                  <video className="videoTag" autoPlay loop muted>
-                    <source src={video_1} type="video/mp4" />
-                  </video>
-                </div>
-              </div>
-            </>
-          )}
 
           {type === 'bgColor' && (
             <div className="slide" style={{ backgroundImage: "#000" }}></div>

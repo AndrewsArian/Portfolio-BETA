@@ -1,64 +1,13 @@
 import React from "react";
 import { MdClose } from "react-icons/md";
 import styled from "styled-components";
-import works_img_4 from "../images/works/work1.jpg";
+import works_img_1 from "../images/works/work1.jpg";
 
 const PopupCard = (props) => {
 
   const {item} = props;
 
-  if (item.category === "photo") {
-    return (
-      <PopupStyled>
-        <img
-          src={item.image_url}
-          alt="portfolio item"
-          style={{ height: "500px", width: "400px" }}
-        />
-        <button className="btn-close" onClick={() => props.setPopupValue(null) }>
-          <MdClose />
-        </button>
-      </PopupStyled>
-    );
-  }
-  if (item.category === "video") {
-    return (
-      <PopupStyled>
-        <div className="embed-responsive embed-responsive-16by9">
-          <iframe
-            title="video"
-            style={{ height: "500px", width: "700px", border: "none" }}
-            className="mfp-iframe"
-            src="//player.vimeo.com/video/97102654?autoplay=1"
-            frameBorder="0"
-          ></iframe>
-        </div>
-        <button className="btn-close" onClick={() => props.setPopupValue(null)}>
-          <MdClose />
-        </button>
-      </PopupStyled>
-    );
-  }
-
-  if (item.category === "music") {
-    return (
-      <PopupStyled>
-        <div className="embed-responsive embed-responsive-16by9">
-          <iframe
-            title="audio"
-            style={{ height: "500px", width: "700px", border: "none" }}
-            className="mfp-iframe"
-            src="https://w.soundcloud.com/player/?visual=true&amp;url=http://api.soundcloud.com/tracks/221650664&amp;show_artwork=true"
-            frameBorder="0"
-          ></iframe>
-        </div>
-        <button className="btn-close" onClick={() => props.setPopupValue(null)}>
-          <MdClose />
-        </button>
-      </PopupStyled>
-    );
-  }
-  if (item.category === "design") {
+  if (item.id === 1) {
     return (
       <PopupStyled>
         <div
@@ -73,49 +22,48 @@ const PopupCard = (props) => {
         >
           <div className="content">
             <div className="image">
-              <img src={works_img_4} alt="patrick" />
+              <img src={works_img_1} alt="patrick" />
             </div>
             <div className="desc">
               <div className="post-box">
-                <h1>Mobile Application</h1>
-                <div className="blog-detail">Design</div>
+                <h1>FR Trainning Team</h1>
+                <div className="blog-detail">Landing Page</div>
                 <div className="blog-content">
                   <p>
-                    So striking at of to welcomed resolved. Northward by
-                    described up household therefore attention. Excellence
-                    decisively nay man yet impression for contrasted remarkably.
+                  Fernando Roser, an ultramarathon athlete and UNSAM graduate professional, invites you to join the FR Team.
+                  With years of experience and knowledge both in practice and theory, Fernando offers personalized training programs
+                  for long-distance races and varied aerobic training.
                   </p>
                   <p>
-                    Forfeited you engrossed but gay sometimes explained. Another
-                    as studied it to evident. Merry sense given he be arise.
-                    Conduct at an replied removal an amongst. Remaining
-                    determine few her two cordially admitting old.
-                  </p>
-                  <blockquote>
-                    Vestibulum ante ipsum primis in faucibus orci luctus et
-                    ultrices posuere cubilia Curae; Pellentesque suscipit.
-                  </blockquote>
-                  <p>
-                    Tiled say decay spoil now walls meant house. My mr interest
-                    thoughts screened of outweigh removing. Evening society
-                    musical besides inhabit ye my. Lose hill well up will he
-                    over on. Increasing sufficient everything men him admiration
-                    unpleasing sex.
-                  </p>
+                  <strong>
+                  Who is it for?
+                  </strong>
+                  
                   <ul className="list-style">
-                    <li>Greatest properly off ham exercise all.</li>
-                    <li>Unsatiable invitation its possession nor off.</li>
-                    <li>
-                      All difficulty estimating unreserved increasing the
-                      solicitude.
-                    </li>
+                    <li>Runners with little or extensive experience in trail running.</li>
+                    <li>People looking to transform their lifestyle through sports.</li>
+                    <li>Nature lovers who enjoy camaraderie and team effort.</li>
                   </ul>
+                 
+                  <strong>
+                  What do we offer?
+                  </strong>
+                  <ul className="list-style">
+                    <li>Training plans tailored to your goals and level.</li>
+                    <li>Group and individual sessions.</li>
+                    <li>Continuous advice and support.</li>
+                    <li>A motivating and friendly environment.</li>
+                  </ul>
+                 
+
+                  </p>
                   <p>
-                    Unpleasant astonished an diminution up partiality. Noisy an
-                    their of meant. Death means up civil do an offer wound of.
+                  Join us and take your performance to the next level with a 
+                  coach who understands your challenges and shares your passion. 
+                  Contact Fernando today and start your transformation!
                   </p>
                 </div>
-                <a href="#view" className="button">
+                <a href="https://andrewsarian.github.io/Fr-TrainingBETA/" className="button">
                   <span className="text">View Project</span>
                   <span className="arrow"></span>
                 </a>

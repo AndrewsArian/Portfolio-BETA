@@ -13,7 +13,7 @@ a:hover {
 }
 
 .header .logo {
-	background: #5ac24e;
+	background: #00ff97;
 }
 
 .header .top-menu ul li.active a, .header .react-tabs__tab.react-tabs__tab--selected a{
@@ -33,7 +33,7 @@ a:hover {
 }
 
 .content.inner-top .text p strong {
-	color: #5ac24e;
+	color: #00ff97;
 }
 
 .content.inner-top .circle-bts a:hover .icon {

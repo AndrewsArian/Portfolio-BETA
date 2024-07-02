@@ -42,6 +42,8 @@ const Contact = () => {
     }
   }, [isLoading, setLoading]);
   
+  /*handleSubmit Method was remplaced with POST method from formspree
+  /*
   const handleSubmit = (e) => {
     e.preventDefault();
     setFormLoading(true);
@@ -76,7 +78,7 @@ const Contact = () => {
       error: 'Oops! There was a problem submitting your form',
     });
   };
-
+*/
   return (
     <>
       <ContactStyled>
@@ -151,7 +153,7 @@ const Contact = () => {
                   <div className="col col-m-12 col-t-12 col-d-12 col-d-lg-12">
                     {/* <!-- form --> */}
                     <div className="contact_form card-box"  >
-                      <form action="https://formspree.io/f/xzbweknb" onSubmit={handleSubmit}>
+                      <form action="https://formspree.io/f/mkgwnrqv" method="POST">
                         <div className="row">
                           <div className="col col-m-12 col-t-6 col-d-6 col-d-lg-6">
                             <div className="group-val">

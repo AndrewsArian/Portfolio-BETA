@@ -4,13 +4,6 @@ import PopupCard from "./PopupCard";
 import { useLoading } from "../hooks/app";
 import profile_img_3 from "../images/profile3.jpg";
 import works_img_1 from "../images/works/work1.jpg";
-import works_img_2 from "../images/works/work2.jpg";
-import works_img_3 from "../images/works/work3.jpg";
-import works_img_4 from "../images/works/work4.jpg";
-import works_img_5 from "../images/works/work5.jpg";
-import works_img_6 from "../images/works/work6.jpg";
-import works_img_7 from "../images/works/work7.jpg";
-import works_img_8 from "../images/works/work8.jpg";
 import Overlay from "./Overlay";
 
 const Work = () => {
@@ -22,57 +15,8 @@ const Work = () => {
     {
       id: 1,
       image_url: works_img_1,
-      desc: "Motorcycle Helmet",
-      category: "photo",
-      icon: "la la-camera-retro",
-    },
-    {
-      id: 2,
-      image_url: works_img_2,
-      desc: "Minimalism Shapes",
-      category: "video",
-      icon: "la la-video-camera",
-    },
-    {
-      id: 3,
-      image_url: works_img_3,
-      desc: "Staircase",
-      category: "music",
-      icon: "la la-music",
-    },
-    {
-      id: 4,
-      image_url: works_img_4,
-      desc: "Gereal Travels",
-      category: "design",
-      icon: "la la-image",
-    },
-    {
-      id: 5,
-      image_url: works_img_5,
-      desc: "Daylight Entrance",
-      category: "music",
-      icon: "la la-music",
-    },
-    {
-      id: 6,
-      image_url: works_img_6,
-      desc: "Architecture",
-      category: "video",
-      icon: "la la-video-camera",
-    },
-    {
-      id: 7,
-      image_url: works_img_7,
-      desc: "Social Website",
-      category: "video",
-      icon: "la la-video-camera",
-    },
-    {
-      id: 8,
-      image_url: works_img_8,
-      desc: "Social Website",
-      category: "design",
+      desc: "Fr-TrainingTeam",
+      category: "Landing",
       icon: "la la-image",
     },
   ];
@@ -137,7 +81,7 @@ const Work = () => {
                     {/* <!-- filters --> */}
                     <div className="filter-menu filter-button-group">
                       {/* f_btn */}
-                      {["all", "photo", "video", "music", "design"].map((item, index) => {
+                      {["design"].map((item, index) => {
                         return (
                           <div className={`f_btn ${btnValue === index && "active"}`}
                             key={index}

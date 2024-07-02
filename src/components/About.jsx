@@ -120,7 +120,7 @@ const About = () => {
                     </p>
                   </div>
                   <div className="circle-bts">
-                    <a href="#download">
+                    <a href="/CV.pdf" download>
                       <span>
                         <i className="icon la la-download"></i>Download CV
                       </span>

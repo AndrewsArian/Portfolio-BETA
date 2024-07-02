@@ -1,6 +1,5 @@
 import React from "react";
 import { TabPanel } from "react-tabs";
-import ThemePanel from "../components/ThemePanel";
 import Hero from "../components/Hero";
 import About from "../components/About";
 import Resume from "../components/Resume";
@@ -12,7 +11,6 @@ const HomePage = () => {
 
   return (
     <DefaultLayout>
-      <ThemePanel />
       <div className="container">
 
         <TabPanel>

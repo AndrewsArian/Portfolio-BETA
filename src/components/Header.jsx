@@ -32,7 +32,7 @@ const Header = () => {
             <Tab as="li">
               <a href="#about">
                 <span className="icon la la-user"></span>
-                <span className="link">seeditaesto?</span>
+                <span className="link">About</span>
               </a>
             </Tab>
             <Tab as="li">

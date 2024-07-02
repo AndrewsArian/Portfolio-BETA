@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Portfolio-BETA/static/css/main.018625b9.css",
+    "main.js": "/Portfolio-BETA/static/js/main.21864dd7.js",
+    "static/media/intro_1.mp4": "/Portfolio-BETA/static/media/intro_1.f80b512b05c37300cbfa.mp4",
+    "static/media/bg.jpg": "/Portfolio-BETA/static/media/bg.d2fb7a38d53de2b92fbf.jpg",
+    "static/media/profile2.jpg": "/Portfolio-BETA/static/media/profile2.dfdefc379198fa61415e.jpg",
+    "static/media/profile4.jpg": "/Portfolio-BETA/static/media/profile4.dbb1a6c68b45964de2b0.jpg",
+    "static/media/profile3.jpg": "/Portfolio-BETA/static/media/profile3.0adab060c3a8114a1fbd.jpg",
+    "static/media/work5.jpg": "/Portfolio-BETA/static/media/work5.171e08201cc467f9b322.jpg",
+    "static/media/mongo.png": "/Portfolio-BETA/static/media/mongo.8ff74d70ee008797ebf2.png",
+    "static/media/work2.jpg": "/Portfolio-BETA/static/media/work2.90ea30f5db7d52758446.jpg",
+    "static/media/react.png": "/Portfolio-BETA/static/media/react.c60b526062b80d77688d.png",
+    "static/media/work3.jpg": "/Portfolio-BETA/static/media/work3.245bb65a70bcd71786fb.jpg",
+    "static/media/work4.jpg": "/Portfolio-BETA/static/media/work4.1020aca25e8f3f4b41b4.jpg",
+    "static/media/python.png": "/Portfolio-BETA/static/media/python.68ad8636fa039c6bb378.png",
+    "static/media/sw.png": "/Portfolio-BETA/static/media/sw.6f4f2cb11ee78ad1ca24.png",
+    "static/media/c.png": "/Portfolio-BETA/static/media/c.e6e8229ed9600a5bcdae.png",
+    "static/media/work7.jpg": "/Portfolio-BETA/static/media/work7.ae4ff327cf1475d32d56.jpg",
+    "static/media/work8.jpg": "/Portfolio-BETA/static/media/work8.eb9b8381d561900249d8.jpg",
+    "static/media/node.png": "/Portfolio-BETA/static/media/node.d7263963cf80443f8ce2.png",
+    "static/media/work6.jpg": "/Portfolio-BETA/static/media/work6.254a5396112fec57faf4.jpg",
+    "static/media/ccnaitn.png": "/Portfolio-BETA/static/media/ccnaitn.74c91d1a55cfc1196a7b.png",
+    "static/media/work1.jpg": "/Portfolio-BETA/static/media/work1.201c796bc62ac43a47e9.jpg",
+    "static/media/DEVASC.png": "/Portfolio-BETA/static/media/DEVASC.f6d64f914e44114fc8f7.png",
+    "static/media/profile.jpg": "/Portfolio-BETA/static/media/profile.24842a5423a943ae431f.jpg",
+    "index.html": "/Portfolio-BETA/index.html",
+    "main.018625b9.css.map": "/Portfolio-BETA/static/css/main.018625b9.css.map",
+    "main.21864dd7.js.map": "/Portfolio-BETA/static/js/main.21864dd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.018625b9.css",
+    "static/js/main.21864dd7.js"
+  ]
+}

@@ -80,7 +80,7 @@ const Hero = ({ type = 'bgColor' }) => {
                   <Typewriter
                     words={[
                       "freelancer.",
-                      "IT Specialist",
+                      "Specialist in IT",
                       "web developer.",
                       "problem solver",
                     ]}

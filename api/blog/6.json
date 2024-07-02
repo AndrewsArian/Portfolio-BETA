@@ -22,43 +22,23 @@
     },
     {
       "layout": "post",
-      "title": "Sint qui amet excepteur nisi et veniam officia occaecat nulla duis non",
-      "date": "2017-02-18 04:02",
-      "author": "Patterson Donovan",
+      "title": "Magna enim qui reprehenderit ipsum culpa quis magna non veniam cupidatat",
+      "date": "2017-07-7 12:07",
+      "author": "Adele Garner",
       "image": "/images/blog/blog1.jpg",
-      "category": "Wordpress",
+      "category": "design",
       "comments": true,
-      "description": "Eu minim magna aliquip non culpa in ad laboris eiusmod. Tempor nisi reprehenderit sint sint Lorem id minim ut aliquip nulla. Mollit adipisicing cillum fugiat amet aute esse ex.",
+      "description": "Minim deserunt culpa do aliquip sunt ullamco sint dolor elit adipisicing officia reprehenderit ullamco. Consequat pariatur Lorem enim consequat sunt ut irure culpa in consectetur cupidatat exercitation adipisicing. Aute in excepteur non ullamco minim dolor in commodo eu consectetur ut consequat.",
       "tags": [
-        "ea",
-        "ipsum",
-        "enim",
-        "proident",
-        "cupidatat",
-        "ad",
-        "laborum"
+        "labore",
+        "elit",
+        "labore",
+        "non",
+        "aliqua",
+        "labore",
+        "nulla"
       ],
-      "slug": "sint-qui-amet-excepteur-nisi-et-veniam-officia-occaecat-nulla-duis-non"
-    },
-    {
-      "layout": "post",
-      "title": "Dolor aliqua aute commodo adipisicing voluptate sint aute veniam nulla tempor",
-      "date": "2017-05-5 20:05",
-      "author": "Hope Burch",
-      "image": "/images/blog/blog2.jpg",
-      "category": "Business",
-      "comments": true,
-      "description": "Velit cupidatat laboris anim occaecat incididunt enim mollit occaecat ut ut est pariatur. In sunt nisi quis voluptate dolore Lorem ipsum sit ut amet pariatur consectetur sit. Reprehenderit in deserunt irure qui consequat reprehenderit.",
-      "tags": [
-        "qui",
-        "deserunt",
-        "cillum",
-        "minim",
-        "ad",
-        "eu",
-        "non"
-      ],
-      "slug": "dolor-aliqua-aute-commodo-adipisicing-voluptate-sint-aute-veniam-nulla-tempor"
+      "slug": "magna-enim-qui-reprehenderit-ipsum-culpa-quis-magna-non-veniam-cupidatat"
     },
     {
       "layout": "post",
@@ -82,43 +62,43 @@
     },
     {
       "layout": "post",
-      "title": "Magna enim qui reprehenderit ipsum culpa quis magna non veniam cupidatat",
-      "date": "2017-07-7 12:07",
-      "author": "Adele Garner",
-      "image": "/images/blog/blog1.jpg",
-      "category": "design",
+      "title": "Do veniam commodo ad voluptate ex occaecat nulla Lorem",
+      "date": "2017-02-15 21:02",
+      "author": "Shaffer Franklin",
+      "image": "/images/blog/blog3.jpg",
+      "category": "Business",
       "comments": true,
-      "description": "Minim deserunt culpa do aliquip sunt ullamco sint dolor elit adipisicing officia reprehenderit ullamco. Consequat pariatur Lorem enim consequat sunt ut irure culpa in consectetur cupidatat exercitation adipisicing. Aute in excepteur non ullamco minim dolor in commodo eu consectetur ut consequat.",
+      "description": "Ut magna culpa ullamco ut ad ea reprehenderit mollit aute qui ad laboris est. Velit velit velit laborum in duis non ullamco labore elit non ea laborum cupidatat. Ut nostrud reprehenderit aliquip velit do et ad adipisicing voluptate.",
       "tags": [
         "labore",
-        "elit",
-        "labore",
-        "non",
-        "aliqua",
-        "labore",
-        "nulla"
+        "dolore",
+        "sit",
+        "nulla",
+        "consequat",
+        "cillum",
+        "irure"
       ],
-      "slug": "magna-enim-qui-reprehenderit-ipsum-culpa-quis-magna-non-veniam-cupidatat"
+      "slug": "do-veniam-commodo-ad-voluptate-ex-occaecat-nulla-lorem"
     },
     {
       "layout": "post",
-      "title": "Aliqua ipsum deserunt aliqua non incididunt",
-      "date": "2018-01-9 11:01",
-      "author": "Lara Edwards",
-      "image": "/images/blog/blog1.jpg",
+      "title": "Dolor aliqua aute commodo adipisicing voluptate sint aute veniam nulla tempor",
+      "date": "2017-05-5 20:05",
+      "author": "Hope Burch",
+      "image": "/images/blog/blog2.jpg",
       "category": "Business",
-      "comments": false,
-      "description": "Dolor excepteur ex eiusmod sint nulla nisi consectetur qui sint. Ut pariatur ut cupidatat reprehenderit aute in laborum non sunt magna nisi deserunt. Commodo sunt commodo in amet cupidatat proident cupidatat.",
+      "comments": true,
+      "description": "Velit cupidatat laboris anim occaecat incididunt enim mollit occaecat ut ut est pariatur. In sunt nisi quis voluptate dolore Lorem ipsum sit ut amet pariatur consectetur sit. Reprehenderit in deserunt irure qui consequat reprehenderit.",
       "tags": [
+        "qui",
+        "deserunt",
+        "cillum",
+        "minim",
+        "ad",
         "eu",
-        "do",
-        "occaecat",
-        "voluptate",
-        "et",
-        "nisi",
-        "exercitation"
+        "non"
       ],
-      "slug": "aliqua-ipsum-deserunt-aliqua-non-incididunt"
+      "slug": "dolor-aliqua-aute-commodo-adipisicing-voluptate-sint-aute-veniam-nulla-tempor"
     },
     {
       "layout": "post",
@@ -139,6 +119,26 @@
         "duis"
       ],
       "slug": "irure-commodo-aliquip-ut-ad-qui-consequat-nostrud-consectetur-amet-voluptate"
+    },
+    {
+      "layout": "post",
+      "title": "Aliqua ipsum deserunt aliqua non incididunt",
+      "date": "2018-01-9 11:01",
+      "author": "Lara Edwards",
+      "image": "/images/blog/blog1.jpg",
+      "category": "Business",
+      "comments": false,
+      "description": "Dolor excepteur ex eiusmod sint nulla nisi consectetur qui sint. Ut pariatur ut cupidatat reprehenderit aute in laborum non sunt magna nisi deserunt. Commodo sunt commodo in amet cupidatat proident cupidatat.",
+      "tags": [
+        "eu",
+        "do",
+        "occaecat",
+        "voluptate",
+        "et",
+        "nisi",
+        "exercitation"
+      ],
+      "slug": "aliqua-ipsum-deserunt-aliqua-non-incididunt"
     },
     {
       "layout": "post",
@@ -202,26 +202,6 @@
     },
     {
       "layout": "post",
-      "title": "Nulla magna adipisicing labore proident reprehenderit veniam non cillum ad et enim",
-      "date": "2019-11-12 23:11",
-      "author": "Corinne Golden",
-      "image": "/images/blog/blog1.jpg",
-      "category": "Development",
-      "comments": true,
-      "description": "Irure ad exercitation aliquip consequat aute ea amet excepteur consectetur do enim labore Lorem. Cupidatat esse aute incididunt do tempor sint esse sint labore magna non magna nisi mollit. Id nostrud ad consequat mollit duis.",
-      "tags": [
-        "elit",
-        "consequat",
-        "quis",
-        "sint",
-        "esse",
-        "non",
-        "aliquip"
-      ],
-      "slug": "nulla-magna-adipisicing-labore-proident-reprehenderit-veniam-non-cillum-ad-et-enim"
-    },
-    {
-      "layout": "post",
       "title": "Officia ullamco nostrud proident eu pariatur est aute veniam cupidatat voluptate cillum",
       "date": "2019-08-11 09:08",
       "author": "Cornelia Prince",
@@ -262,6 +242,46 @@
     },
     {
       "layout": "post",
+      "title": "Fugiat magna id ad laboris quis fugiat officia labore mollit nostrud laborum esse",
+      "date": "2020-04-9 09:04",
+      "author": "Aurora Cooley",
+      "image": "/images/blog/blog1.jpg",
+      "category": "Travel",
+      "comments": true,
+      "description": "Ipsum elit anim quis occaecat pariatur sint eiusmod amet esse cupidatat sint nulla culpa. Ex ex mollit nulla nulla fugiat qui id laborum aliqua voluptate ullamco eiusmod occaecat. Veniam deserunt nostrud irure non.",
+      "tags": [
+        "ut",
+        "commodo",
+        "laborum",
+        "reprehenderit",
+        "fugiat",
+        "dolore",
+        "ad"
+      ],
+      "slug": "fugiat-magna-id-ad-laboris-quis-fugiat-officia-labore-mollit-nostrud-laborum-esse"
+    },
+    {
+      "layout": "post",
+      "title": "Ex ea nostrud minim ex ut in sint",
+      "date": "2020-08-19 23:08",
+      "author": "Caitlin Duran",
+      "image": "/images/blog/blog1.jpg",
+      "category": "Travel",
+      "comments": true,
+      "description": "Irure et occaecat qui consectetur irure esse consectetur aliqua aliquip sit mollit exercitation velit. Exercitation aliquip consectetur ullamco culpa anim amet do irure sint ut minim qui. Dolor quis nisi ad consequat dolor dolor exercitation tempor elit culpa eiusmod nulla anim et.",
+      "tags": [
+        "enim",
+        "Lorem",
+        "cillum",
+        "consectetur",
+        "magna",
+        "anim",
+        "excepteur"
+      ],
+      "slug": "ex-ea-nostrud-minim-ex-ut-in-sint"
+    },
+    {
+      "layout": "post",
       "title": "Dolore ipsum id esse id ad deserunt duis culpa reprehenderit minim exercitation ea reprehenderit ex",
       "date": "2020-07-9 06:07",
       "author": "Mathis Hamilton",
@@ -282,43 +302,23 @@
     },
     {
       "layout": "post",
-      "title": "Sit quis magna sint anim sint aliquip consectetur et eu",
-      "date": "2020-06-13 12:06",
-      "author": "Carey Tyson",
-      "image": "/images/blog/blog3.jpg",
-      "category": "Business",
-      "comments": false,
-      "description": "Duis amet non culpa deserunt consequat. Veniam ex deserunt nulla quis occaecat irure minim fugiat aliquip. Elit laborum aute id nulla fugiat mollit esse eiusmod ipsum exercitation dolore nulla.",
-      "tags": [
-        "dolore",
-        "proident",
-        "aliqua",
-        "aliquip",
-        "ipsum",
-        "consectetur",
-        "irure"
-      ],
-      "slug": "sit-quis-magna-sint-anim-sint-aliquip-consectetur-et-eu"
-    },
-    {
-      "layout": "post",
-      "title": "Fugiat magna id ad laboris quis fugiat officia labore mollit nostrud laborum esse",
-      "date": "2020-04-9 09:04",
-      "author": "Aurora Cooley",
-      "image": "/images/blog/blog1.jpg",
-      "category": "Travel",
+      "title": "Laborum enim ullamco eiusmod excepteur voluptate mollit amet",
+      "date": "2020-08-29 14:08",
+      "author": "Bertha Reed",
+      "image": "/images/blog/blog2.jpg",
+      "category": "Basic HTML",
       "comments": true,
-      "description": "Ipsum elit anim quis occaecat pariatur sint eiusmod amet esse cupidatat sint nulla culpa. Ex ex mollit nulla nulla fugiat qui id laborum aliqua voluptate ullamco eiusmod occaecat. Veniam deserunt nostrud irure non.",
+      "description": "Esse in ea laborum aute qui dolore aute excepteur sunt. Sint sunt ad in ea. Duis esse quis pariatur ipsum pariatur sunt nisi.",
       "tags": [
-        "ut",
-        "commodo",
-        "laborum",
-        "reprehenderit",
-        "fugiat",
-        "dolore",
-        "ad"
+        "culpa",
+        "est",
+        "cupidatat",
+        "aliquip",
+        "aliquip",
+        "dolor",
+        "laboris"
       ],
-      "slug": "fugiat-magna-id-ad-laboris-quis-fugiat-officia-labore-mollit-nostrud-laborum-esse"
+      "slug": "laborum-enim-ullamco-eiusmod-excepteur-voluptate-mollit-amet"
     }
   ],
   "paginate": {

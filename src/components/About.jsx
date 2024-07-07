@@ -125,7 +125,7 @@ const About = () => {
                         <i className="icon la la-download"></i>Download CV
                       </span>
                     </a>
-                    <a href="https://github.com/" target="_blank" rel="noreferrer">
+                    <a href="https://github.com/AndrewsArian" target="_blank" rel="noreferrer">
                       <i className="icon la la-github"></i>
                     </a>
                     <a href="https://www.linkedin.com/in/arian-daniel-benjamin-goicochea-864584249" target="_blank" rel="noreferrer">

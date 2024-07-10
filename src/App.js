@@ -26,7 +26,7 @@ function App() {
       <BrowserRouter history={history}>
         <Switch>
           {/* <ThemePanel /> */}
-          <Route path="/" component={HomePage} exact />
+          <Route path="/Portfolio-BETA" component={HomePage} exact />
           <Route path="*">
             <Redirect to="/" />
           </Route>
